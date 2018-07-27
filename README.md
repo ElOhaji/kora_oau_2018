@@ -3,7 +3,7 @@ Welcome to the official submission repository for the July 2018 Kora Hackathon h
 The Kora Hackathon is an initiative organized by Kora Network in partnership with Quidax Technologies, to foster entrepreneural innovation and groom technical talent in the Nigerian FinTech space.
 
 #### Objectives and Rules
-* Attendees can participate **individually** or in teams of at most **3 team members** and teams can be formed prior to the Hackathon. 
+* Attendees can participate **individually** or in teams of at most **3 team members** and teams can be formed prior to the Hackathon.
 * Attendees are *responsible for coming to the event with their FinTech related ideas*. The Hackathon organizers and partners may also provide teams potential ideas to work on and offer prizes to the best team. Example applications include innovations in crypto-currencies, trading, investing, personal finance, retail banking, mobile payments, regulatory compliance, risk management, enterprise social, etc.
 * Attendees are at liberty to use any open APIs and platforms from technology partners will be made available during the Hackathon.
 * Attendees will about 36 hours coding, validating their ideas, networking and then demoing their hacks to a panel of judges. See the timetable schedule below for details.
@@ -17,7 +17,7 @@ The winners of the contest will be selected by a panel of judges ("Judges") asse
 Winners will be judged based on the following criteria:
   1. Innovative nature of the solution.
   1. Utility of the product.
-  1. Technical and design quality of the implementation/approach applied. 
+  1. Technical and design quality of the implementation/approach applied.
   1. Special consideration will be given to entries based on the following criteria:
     - Level of technical skill and acumen displayed by the participant. We are on the lookout ;)
     - Degree to which the process of development was collaborative (i.e. did you work with other contestants or team members    to improve your submission?)
@@ -35,3 +35,5 @@ By posting or submitting a  Kora Hackathon  Entry to the Contest (regardless of 
 
 #### Copyright
 Participant represents and warrants that he or she is the sole author and copyright owner of the Submission, and that the Submission is an original work of the Participant, or if the Submission is a work based on an existing application, that the Participant has acquired sufficient rights to use and to authorize others, including the  Kora Hackathon , to use the Submission, as specified in the “Intellectual Property Rights” section of the Rules; and that the Submission does not infringe upon any copyright or upon any other third party rights of which the Participant is aware, and that the Submission is free of malware.
+
+#team elvis
